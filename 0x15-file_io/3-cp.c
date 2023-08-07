@@ -4,7 +4,7 @@
 
 /**
  * create_buffer - 1024 byte memory allocation for a buffer.
- * @file:  file stored in buffer of which char's for.
+ * @the_file:  file stored in buffer of which char's for.
  *
  * Return: the pointer to the new buffer.
  */
